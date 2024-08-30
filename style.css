@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+h1{
+    background-color: whitesmoke;
+    padding: 16px;
+    font-size:48px;
+    text-align: center;
+}
+
+h4{
+    background-color: white;
+    padding: 16px;
+    font-size:20px;
+    text-align: center;
+}
+
+.gallery {
+    display:flex;
+    flex-direction:row;
+    max-width: 50%;
+    margin: 0 auto auto;
+    flex-wrap: wrap;
+    padding: 100px;
+    justify-content:space-around ;
+  }
+
+img {
+    margin-top: 20px;
+    width: 350px;
+    height:350px;
+    padding:10px;
+    border: 10px solid #000000;
+    box-shadow: 2px 2px 50px 1px #000000
+}
+  
+
+  
