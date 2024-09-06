@@ -20,5 +20,5 @@ Site informativo para apresentar uma galeria com nove imagens referente aos pers
 ---
 
 ## Autor
-- [Mariane Rodrigues] (https://www.linkedin.com/in/mariane-rodrigues-93a02a25b/)
+- [Mariane Rodrigues](https://www.linkedin.com/in/mariane-rodrigues-93a02a25b/)
 
